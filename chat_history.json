@@ -1,0 +1,10 @@
+[
+    [
+        "cual es el autor del documento impromptu?",
+        "El autor del documento Impromptu es Reid Hoffman, con la colaboración de GPT-4."
+    ],
+    [
+        "listame los pasos para : Traditional Privacy Model.",
+        "El modelo de privacidad tradicional logra un nivel de privacidad limitando el acceso a la información solo a las partes involucradas y al tercero de confianza. Sin embargo, la necesidad de anunciar todas las transacciones públicamente impide este método. En su lugar, la privacidad se puede mantener manteniendo anónimas las claves públicas. El público puede ver que alguien está enviando una cantidad a otra persona, pero sin información que vincule la transacción a alguien en particular. Además, se debe utilizar un nuevo par de claves para cada transacción para evitar que se vinculen a un propietario común. Sin embargo, algunas vinculaciones son inevitables con transacciones de múltiples entradas, lo que revela que sus entradas eran propiedad del mismo propietario. El riesgo es que si se revela el propietario de una clave, la vinculación podría revelar otras transacciones que pertenecían al mismo propietario."
+    ]
+]
